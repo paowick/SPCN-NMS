@@ -313,7 +313,7 @@ $ sudo systemctl restart snmpd.service
 ![image](https://user-images.githubusercontent.com/117457958/211185324-3672799f-fbba-42dd-888d-a14b56312928.png)
 
 # Reading the results of the tool
-- Overview 
+Overview 
  - System details
  - Processors
  - Overall Traffic
