@@ -245,6 +245,8 @@ $ vim /etc/cron.d/librenms typically
 # Daily maintenance script. DO NOT DISABLE!
 # If you want to modify updates:
 ```
+![image](https://user-images.githubusercontent.com/117457958/211186804-b59cf588-a605-48c5-b4b4-8622fa992e83.png)
+
 # Using LibreNMS
 
 -login to http://172.31.0.219/ and click the Cylindrical symbol
