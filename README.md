@@ -1,4 +1,4 @@
-# LibreNMS
+# Install LibreNMS
  ```
 $ apt install software-properties-common
 $ add-apt-repository universe
