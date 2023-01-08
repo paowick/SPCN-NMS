@@ -321,8 +321,16 @@ Overview
  - Storage
  - Recent Events
 ![image](https://user-images.githubusercontent.com/117457958/211185522-0f8f8099-410c-46ba-a2ae-bbd8fe9520cb.png)
--
 
+Health
+ - Processor (Tell the details of the processor hourly, daily, weekly, monthly.)
+![image](https://user-images.githubusercontent.com/117457958/211185957-58e0cb51-4bba-4cc8-baff-ec2584003d1b.png)
+ - Memory (Able to tell RAM memory in different parts of the device, hourly, daily, weekly, monthly)
+![image](https://user-images.githubusercontent.com/117457958/211186136-e7a55f75-98a9-4e96-a0ac-8e2ef6c8dc06.png)
+ - Disk Usage (Able to tell memory in different parts of the device, hourly, daily, weekly, monthly)
+![image](https://user-images.githubusercontent.com/117457958/211186220-a63ce453-9fcf-4dc6-b6bd-f7b595689c10.png)
+ - Disk I/O(Able to tell the rate of entering-out of data in both hourly, daily, weekly, monthly)
+![image](https://user-images.githubusercontent.com/117457958/211186276-ca41f98b-c8df-44de-92b1-d6a471139e08.png)
 
 
 
