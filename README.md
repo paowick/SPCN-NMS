@@ -271,8 +271,8 @@ $ sudo apt install snmpd
 ```
 $ sudo nano /etc/snmp/snmpd.conf
 ```
-```
-# Change agentaddress 
+- Change agentaddress
+``` 
 agentaddress udp:161,udp6:[::1]:161   <---- here!!!
 #agentaddress 127.0.0.1,[::1]   <---- here!!!
 ```
