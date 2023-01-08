@@ -283,8 +283,9 @@ rocommunity librenmsv1 default   <---- here!!!
 rocommunity  public default -V systemonly
 rocommunity6 public default -V systemonly
 ```
-
+```
 $ sudo systemctl restart snmpd.service
+```
 
 -Add devices
 
