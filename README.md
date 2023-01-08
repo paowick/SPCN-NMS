@@ -107,7 +107,7 @@ group = librenms    <----  here!!!
 listen = /run/php-fpm-librenms.sock  <---- here!!!
 ```
 
-## --Configure Web Server
+## -Configure Web Server
 
 ```
 $ vim /etc/nginx/conf.d/librenms.conf
