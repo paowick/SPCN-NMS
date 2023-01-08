@@ -268,7 +268,9 @@ $ vim /etc/cron.d/librenms typically
 ```
 $ sudo apt install snmpd
 ```
+```
 $ sudo nano /etc/snmp/snmpd.conf
+```
 ```
 # Change agentaddress 
 agentaddress udp:161,udp6:[::1]:161   <---- here!!!
@@ -280,6 +282,7 @@ agentaddress udp:161,udp6:[::1]:161   <---- here!!!
 rocommunity librenmsv1 default   <---- here!!!
 rocommunity  public default -V systemonly
 rocommunity6 public default -V systemonly
+```
 ```
 $ sudo systemctl restart snmpd.service
 ```
