@@ -294,6 +294,10 @@ $ sudo systemctl restart snmpd.service
 -Input Hostname or Ip , Community and click -> Add Device
 
 ![image](https://user-images.githubusercontent.com/117457958/211184037-e78fe3e5-bf59-454e-b556-17f323c72fb3.png)
+![image](https://user-images.githubusercontent.com/117457958/211184598-8521e88e-c03f-4fc9-8f99-0ba8cb59bfab.png)
+![image](https://user-images.githubusercontent.com/117457958/211184610-0d1f63eb-5252-4a03-add6-2aadc84f8eab.png)
+
+
 
 
 
