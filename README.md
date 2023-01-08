@@ -307,6 +307,13 @@ $ sudo systemctl restart snmpd.service
 ![image](https://user-images.githubusercontent.com/117457958/211184037-e78fe3e5-bf59-454e-b556-17f323c72fb3.png)
 ![image](https://user-images.githubusercontent.com/117457958/211184598-8521e88e-c03f-4fc9-8f99-0ba8cb59bfab.png)
 
+-Click -> Devices -> All Devices -> Server 
+
+![image](https://user-images.githubusercontent.com/117457958/211185275-01cff631-d1eb-4468-9f58-a40e644b764b.png)
+![image](https://user-images.githubusercontent.com/117457958/211185324-3672799f-fbba-42dd-888d-a14b56312928.png)
+
+
+
 
 
 
