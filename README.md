@@ -312,6 +312,17 @@ $ sudo systemctl restart snmpd.service
 ![image](https://user-images.githubusercontent.com/117457958/211185275-01cff631-d1eb-4468-9f58-a40e644b764b.png)
 ![image](https://user-images.githubusercontent.com/117457958/211185324-3672799f-fbba-42dd-888d-a14b56312928.png)
 
+# Reading the results of the tool
+-Overview
+     -System details
+     -Processors
+     -Overall Traffic
+     -Memory
+     -Storage
+     -Recent Events
+![image](https://user-images.githubusercontent.com/117457958/211185522-0f8f8099-410c-46ba-a2ae-bbd8fe9520cb.png)
+-
+
 
 
 
