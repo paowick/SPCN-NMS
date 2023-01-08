@@ -242,7 +242,7 @@ $ vim /etc/cron.d/librenms typically
 
 -Click -> Check Credentials
 
-![Screenshot 2023-01-05 224823](https://user-images.githubusercontent.com/117457958/211182424-2795fc2d-0e44-4b02-88e9-548c96569f95.png)
+![Screenshot 2023-01-05 224823](https://user-images.githubusercontent.com/117457958/211183141-e4c6e9c1-5fd8-41f5-b0fb-baad76a1061e.png)
 
 -Click -> Build Database
 
