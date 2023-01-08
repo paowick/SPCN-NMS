@@ -237,13 +237,11 @@ $ vim /etc/cron.d/librenms typically
 # Using LibreNMS
 ```
 ##-login to http://172.31.0.219/ and click the key symbol
-```
+
 https://github.com/paowick/SPCN-NMS/issues/1#issue-1524341919
-```
-```
+
 ##-Click -> Check Credentials
-```
+
 https://github.com/paowick/SPCN-NMS/issues/2#issue-1524342016
-```
-```
+
 
