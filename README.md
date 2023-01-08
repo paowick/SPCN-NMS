@@ -236,7 +236,7 @@ $ vim /etc/cron.d/librenms typically
 ```
 # Using LibreNMS
 ```
--login to http://172.31.0.219/ and click the key symbol
+-login to http://172.31.0.219/ and click the Cylindrical symbol
 ```
 ![Screenshot 2023-01-05 224733](https://user-images.githubusercontent.com/117457958/211182411-de02ba77-3d2a-48f2-8da7-3945d46c2a94.png)
 ```
@@ -248,4 +248,24 @@ $ vim /etc/cron.d/librenms typically
 ```
 ![Screenshot 2023-01-05 224843](https://user-images.githubusercontent.com/117457958/211182433-e0416a0e-acde-41e6-bd2f-2908ccb6f739.png)
 ```
+-Click the key symbol and create Admin User
+```
+![Screenshot 2023-01-05 225039](https://user-images.githubusercontent.com/117457958/211182442-7e32c489-d627-4f27-87e0-10656267e017.png)
+```
+-Click the correct mark and click -> Finish Install
+```
+![Screenshot 2023-01-05 225102](https://user-images.githubusercontent.com/117457958/211182449-093d4a7e-844d-45ef-8e26-725a6f42a1a0.png)
+```
+-Click -> Validate Install
+```
+![Screenshot 2023-01-05 225122](https://user-images.githubusercontent.com/117457958/211182458-71941394-3b38-4179-bf7c-8417dbb33119.png)
+```
+-Click ----
+```
+![Screenshot 2023-01-05 225723](https://user-images.githubusercontent.com/117457958/211182464-c19e6ebb-bf35-4073-ac55-e31b64674e80.png)
+
+## -Add devices
+
+
+
 
