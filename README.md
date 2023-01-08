@@ -274,6 +274,21 @@ $ sudo nano /etc/snmp/snmpd.conf
 agentaddress udp:161,udp6:[::1]:161   <---- here!!!
 #agentaddress 127.0.0.1,[::1]   <---- here!!!
 ```
+```
+# Add rocommunity
+# Read-only access to everyone to the systemonly view
+rocommunity librenmsv1 default   <---- here!!!
+rocommunity  public default -V systemonly
+rocommunity6 public default -V systemonly
+```
+$ sudo systemctl restart snmpd.service
+```
+![Screenshot 2023-01-05 225753](https://user-images.githubusercontent.com/117457958/211182467-3d3608f6-fb84-4754-b10e-6317d3ebe751.png)
+```
+![image](https://user-images.githubusercontent.com/117457958/211184037-e78fe3e5-bf59-454e-b556-17f323c72fb3.png)
+```
+
+
 
 
 
