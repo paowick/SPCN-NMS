@@ -235,17 +235,17 @@ $ vim /etc/cron.d/librenms typically
 # If you want to modify updates:
 ```
 # Using LibreNMS
-
+```
 -login to http://172.31.0.219/ and click the key symbol
-
+```
 ![Screenshot 2023-01-05 224733](https://user-images.githubusercontent.com/117457958/211182411-de02ba77-3d2a-48f2-8da7-3945d46c2a94.png)
-
+```
 -Click -> Check Credentials
-
+```
 ![Screenshot 2023-01-05 224823](https://user-images.githubusercontent.com/117457958/211183141-e4c6e9c1-5fd8-41f5-b0fb-baad76a1061e.png)
-
+```
 -Click -> Build Database
-
+```
 ![Screenshot 2023-01-05 224843](https://user-images.githubusercontent.com/117457958/211182433-e0416a0e-acde-41e6-bd2f-2908ccb6f739.png)
-
+```
 
