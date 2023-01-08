@@ -271,8 +271,15 @@ $ vim /etc/cron.d/librenms typically
 
 ![Screenshot 2023-01-05 225122](https://user-images.githubusercontent.com/117457958/211182458-71941394-3b38-4179-bf7c-8417dbb33119.png)
 
--Click ----
-
+```
+mysql -u root
+SET time_zone = '+7:00';
+exit
+```
+```
+systemctl restart mysql
+```
+-Click -> Attempt to automatically fix
 ![Screenshot 2023-01-05 225723](https://user-images.githubusercontent.com/117457958/211182464-c19e6ebb-bf35-4073-ac55-e31b64674e80.png)
 
 ## -Install SNMP and Add devices
