@@ -207,16 +207,27 @@ check Services
 ```
 $ lnms config:get show_services
 ``` 
-### or
+### add discover services
 ```
 $ vim /opt/librenms/config.php
 ```
 Add the following line
 ```
 # Enable the in-built services support (Nagios plugins)
-#$config['show_services'] = 1;                                  <----  here!!! 
+#$config['show_services'] = 1;                                  
 #$config['discover_services'] = true;                           <----  here!!!
 #$config['discover_services_templates'] = true;                 <----  here!!!
+```
+### add nagios piugins
+```
+$ vim /opt/librenms/config.php
+```
+Add the following line
+```
+# Enable the in-built services support (Nagios plugins)
+#$config['show_services'] = 1;                                  
+#$config['discover_services'] = true;                           
+#$config['discover_services_templates'] = true;                 
 #$config['nagios_plugins']   = "/usr/lib/nagios/plugins";       <----  here!!!
 ```
 ```
