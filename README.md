@@ -236,14 +236,18 @@ $ vim /etc/cron.d/librenms typically
 ```
 # Using LibreNMS
 ```
-##-login to http://172.31.0.219/ and click the key symbol
+-login to http://172.31.0.219/ and click the key symbol
 ```
 ![Screenshot 2023-01-05 224733](https://user-images.githubusercontent.com/117457958/211182411-de02ba77-3d2a-48f2-8da7-3945d46c2a94.png)
 ```
 ```
-##-Click -> Check Credentials
+-Click -> Check Credentials
 ```
-![Screenshot 2023-01-05 224823](https://user-images.githubusercontent.com/117457958/211182424-2795fc2d-0e44-4b02-88e9-548c96569f96.png)
+![Screenshot 2023-01-05 224823](https://user-images.githubusercontent.com/117457958/211182424-2795fc2d-0e44-4b02-88e9-548c96569f95.png)
 ```
 ```
+-Click -> Build Database
+```
+![Screenshot 2023-01-05 224843](https://user-images.githubusercontent.com/117457958/211182433-e0416a0e-acde-41e6-bd2f-2908ccb6f739.png)
+
 
