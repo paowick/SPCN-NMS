@@ -235,13 +235,15 @@ $ vim /etc/cron.d/librenms typically
 # If you want to modify updates:
 ```
 # Using LibreNMS
-
+```
 ##-login to http://172.31.0.219/ and click the key symbol
-
-https://github.com/paowick/SPCN-NMS/issues/1#issue-1524341919
-
+```
+![Screenshot 2023-01-05 224733](https://user-images.githubusercontent.com/117457958/211182411-de02ba77-3d2a-48f2-8da7-3945d46c2a94.png)
+```
+```
 ##-Click -> Check Credentials
-
-https://github.com/paowick/SPCN-NMS/issues/2#issue-1524342016
-
+```
+![Screenshot 2023-01-05 224823](https://user-images.githubusercontent.com/117457958/211182424-2795fc2d-0e44-4b02-88e9-548c96569f96.png)
+```
+```
 
