@@ -264,7 +264,18 @@ $ vim /etc/cron.d/librenms typically
 ```
 ![Screenshot 2023-01-05 225723](https://user-images.githubusercontent.com/117457958/211182464-c19e6ebb-bf35-4073-ac55-e31b64674e80.png)
 
-## -Add devices
+## -Install SNMP and Add devices
+```
+$ sudo apt install snmpd
+```
+$ sudo nano /etc/snmp/snmpd.conf
+```
+# Change agentaddress 
+agentaddress udp:161,udp6:[::1]:161   <---- here!!!
+#agentaddress 127.0.0.1,[::1]   <---- here!!!
+```
+
+
 
 
 
