@@ -285,7 +285,7 @@ rocommunity6 public default -V systemonly
 ```
 ```
 $ sudo systemctl restart snmpd.service
-```
+
 -Add devices
 
 ![Screenshot 2023-01-05 225753](https://user-images.githubusercontent.com/117457958/211184073-407fd1a4-736b-4b41-9099-68a23e02847b.png)
@@ -293,7 +293,7 @@ $ sudo systemctl restart snmpd.service
 -Input Hostname or Ip , Community and click -> Add Device
 
 ![image](https://user-images.githubusercontent.com/117457958/211184037-e78fe3e5-bf59-454e-b556-17f323c72fb3.png)
-```
+
 
 
 
