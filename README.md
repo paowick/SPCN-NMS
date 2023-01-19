@@ -333,6 +333,10 @@ Overview
 
 Health
  - Processor (Tell the details of the processor hourly, daily, weekly, monthly.)
+ -วิธีอ่าน Graph Processor
+  -แกน X คือค่าเวลาของ Graph
+  -แกน Y คือค่า Processor ขณะที่ทำงานอยู่
+สามารถบอกค่าเฉลี่ย ของ Processor ได้
 ![image](https://user-images.githubusercontent.com/117457958/211185957-58e0cb51-4bba-4cc8-baff-ec2584003d1b.png)
  - Memory (Able to tell RAM memory in different parts of the device, hourly, daily, weekly, monthly)
 ![image](https://user-images.githubusercontent.com/117457958/211186136-e7a55f75-98a9-4e96-a0ac-8e2ef6c8dc06.png)
